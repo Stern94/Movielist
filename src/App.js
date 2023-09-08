@@ -4,7 +4,6 @@ import MovieCard from './MovieCard';
 
 import './App.css';
 import SearchIcon from './search.svg';
-<meta httpEquiv='Content Security Policy'  content="upgrade-insecure-requests"/>
 
 // 45c50cc4
 
