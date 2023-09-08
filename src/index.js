@@ -4,4 +4,4 @@ import ReactDOM from 'react-dom';
 import App from './App';
 <meta httpEquiv='Content Security Policy'  content="upgrade-insecure-requests"/>
 
-ReactDOM.render(<App />,  <React.StrictMode/>, document.getElementById('root'));
+ReactDOM.render(<App />,  document.getElementById('root'));
